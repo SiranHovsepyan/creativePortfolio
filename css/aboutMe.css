@@ -1,0 +1,37 @@
+.aboutMeContainer {
+    margin-top: 172px;
+
+}
+
+.imgAboutMe {
+    float: left;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.infAboutMe {
+    float: left;
+}
+
+.education{
+    float: left;
+    padding: 35px 35px;
+    padding-bottom: 0px;
+}
+.designExperience{
+    float: left;
+    padding: 35px 35px;
+    padding-bottom: 0px;
+}
+.design{
+    float: left;
+    margin-right: 120px;
+}
+
+.design p, .interface p{
+    margin-bottom: 0px;
+}
+
+.interface{
+    float: left;
+}

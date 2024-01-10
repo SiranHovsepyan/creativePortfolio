@@ -1,0 +1,23 @@
+.portfolioContainer{
+    margin-top: 158px;
+}
+
+.folio{
+    float: left;
+    padding-right: 28px;
+}
+.gallery{
+    float: left;
+    padding: 10px 65px;
+    padding-right: 0;
+    border-left: 2px dotted black;
+}
+.folioBlock ul li{
+    list-style-type: none;
+}
+.folioBlock p{
+    padding-left: 54px;
+}
+.folioBlock ul li b{
+    font-family: Arial;
+}
